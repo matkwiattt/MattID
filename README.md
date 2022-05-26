@@ -1,16 +1,18 @@
-# matt_id_app
+# Matt ID App
 
-A new Flutter project.
+This is my App which I used to learn how to implement some cool features of Flutter. I wanted to create an app which allows everyone to contact me. 
 
-## Getting Started
+## Used technologies
+Dart
 
-This project is a starting point for a Flutter application.
+## Features
+Basic buttons, Avatars using 
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+That app works on every single web browser and mobile simulator. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Project Status
+FInished.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact 
+Contact me! Don't hesitate:)
